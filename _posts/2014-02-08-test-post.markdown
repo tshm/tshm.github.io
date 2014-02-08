@@ -3,4 +3,8 @@ published: true
 title: test post
 layout: post
 ---
+== test sec
 dummy content
+
+* i1
+* i2
