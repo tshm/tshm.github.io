@@ -3,6 +3,7 @@ layout: index
 ---
 
 ## Web Application: [md5html](http://tshm.github.io/md5html)
+
 Single page web application for calculating digest-hash (e.g. MD5) for
 given files.
 
@@ -10,7 +11,14 @@ Used: Javascript/Elm, HTML5(webworker), Picnic CSS
 
 <img src="image/md5html.png" alt="screenshot of md5html webpage" width="300px">
 
+## Open Source Development Tool: [elm-doctest](https://github.com/tshm/elm-doctest)
+
+Doctest runner for Elm-lang soruce code files.
+Executable installable via npm. It will extract test codes within code comments and
+run validation code in elm-repl, then spits out result into stdout.
+
 ## Web Application: [GaussianMixtureEM](http://tshm.github.io/GaussianMixtureEM)
+
 Single page web application for fitting Mixed
 Gaussian distribution using ExpectationMaximization technique.
 
@@ -19,6 +27,7 @@ Used: Javascript/AngularJS, HTML5/Jade, CoffeeScript, Bootstrap, Yeoman/NPM/Grun
 <img src="image/GaussianMixtureEM.png" alt="screenshot of GaussianMixtureEM webpage" width="300px">
 
 ## OpenSource Project Contribution: TodoMVC
+
 I contributed [AgilityJs](https://github.com/arturadib/agility) implementation for
 [TodoMVC](http://todomvc.com/)
 project.
@@ -27,10 +36,10 @@ Used: Javascript/AgilityJs/JQuery, HTML5
 
 <img src="image/TodoMVC.png" alt="screenshot of TodoMVC webpage" width="300px">
 
-
 ## StackOverflow Reputation
+
 I have been providing answers to `Javascript`/`AngularJS`/`Elm` related
-questions at 
+questions at
 [StackOverflow](http://stackoverflow.com/users/1238847/tosh-shimayama).
 
 <a href="http://stackoverflow.com/users/1238847/tosh-shimayama">
@@ -38,11 +47,12 @@ questions at
 </a>
 
 ## Others
+
 Other works can be viewed at my github repository list page.
 Including:
 
-* Learning excersize for Haskell
-* Vim plugin
-* C++ math library
-* patch contribution to [NeutralinoJs](https://github.com/neutralinojs/neutralinojs) project.
-* etc.
+- Learning excersize for Haskell
+- Vim plugin
+- C++ math library
+- patch contribution to [NeutralinoJs](https://github.com/neutralinojs/neutralinojs) project.
+- etc.
